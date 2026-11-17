@@ -1,4 +1,4 @@
-### Hi, I'm Chai Wan Fei 👋
+### Hi, I'm Wan Fei Chai👋
 
 Final-year **Bachelor of Computer Science (Data Science)** student at **Swinburne University of Technology** (INTI Subang Campus), based in Petaling Jaya, Malaysia.
 ---
